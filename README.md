@@ -1,7 +1,7 @@
 <p align="center">
   <a href="YOUR_LINK_HERE" style="
     display: inline-block;
-    padding: 10px 30px;
+    padding: 10px 60px;
     border: 2px solid #0078d7;
     border-radius: 25px;
     background: none;

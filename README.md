@@ -5,7 +5,7 @@
     border: 2px solid #0078d7;
     border-radius: 25px;
     background: none;
-    color: #0078d7;
+    color: #555;
     text-decoration: none;
     font-size: 16px;
     font-family: sans-serif;

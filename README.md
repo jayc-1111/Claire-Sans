@@ -17,6 +17,7 @@
     Download
   </a>
 </p>
+
 ![Screenshot 2025-06-18 105958](https://github.com/user-attachments/assets/16c24b92-5805-4c71-8d2a-929d7154fefe)
 ![boardclarity](https://github.com/user-attachments/assets/270e7ce4-8ed4-4997-a8d8-b7d321c3afe0)
 

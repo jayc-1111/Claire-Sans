@@ -12,7 +12,7 @@
     font-weight: 600;
     transition: background 0.2s;
   ">
-    Download
+    Download Font
   </a>
 </p>
 
@@ -36,6 +36,6 @@
     font-weight: 600;
     transition: background 0.2s;
   ">
-    Download
+    Download Font
   </a>
 </p>

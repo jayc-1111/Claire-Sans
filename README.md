@@ -1,20 +1,15 @@
 <p align="center">
   <a href="YOUR_DOWNLOAD_LINK" 
-     style="
-       display: inline-block;
-       padding: 10px 30px;
-       border: 2px solid #0078d7;
-       border-radius: 9999px;  /* fully rounded */
-       background: none;
-       color: #0078d7;
-       text-decoration: none;
-       font-weight: 600;
-       font-family: Arial, sans-serif;
-       cursor: pointer;
-     ">
+     style="text-decoration-line: underline; 
+            text-decoration-style: double; 
+            text-decoration-color: #0366d6; 
+            color: #0366d6;
+            font-weight: 600;
+            font-family: Arial, sans-serif;">
     Download
   </a>
 </p>
+
 
 
 ![claritysans_readme1](https://github.com/user-attachments/assets/71f95f12-169f-4d4e-9a21-7de80761091c)

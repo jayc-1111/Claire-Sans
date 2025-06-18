@@ -21,7 +21,7 @@
 ![boardclarity](https://github.com/user-attachments/assets/ebbef314-f950-4f9e-a210-e91d3982cafe)
 
 
-<p align="right">
+<p align="left">
   <a href="https://mega.nz/folder/a8dylBaB#aLfJ16z5jaeQs9sEhPkLHQ" 
      style="text-decoration-line: underline; 
             text-decoration-style: double; 

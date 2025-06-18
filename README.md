@@ -7,8 +7,8 @@
     background: none;
     color: #555;
     text-decoration: none;
-    font-size: 16px;
-    font-family: sans-serif;
+    font-size: 18px;
+    font-family: arial, sans-serif;
     font-weight: 600;
     transition: background 0.2s;
   ">
@@ -31,8 +31,8 @@
     background: none;
     color: #0078d7;
     text-decoration: none;
-    font-size: 16px;
-    font-family: sans-serif;
+    font-size: 18px;
+    font-family: arial, sans-serif;
     font-weight: 600;
     transition: background 0.2s;
   ">

@@ -1,4 +1,4 @@
-<p align="right">
+<p align="center">
   <a href="https://mega.nz/folder/a8dylBaB#aLfJ16z5jaeQs9sEhPkLHQ" 
      style="text-decoration-line: underline; 
             text-decoration-style: double; 

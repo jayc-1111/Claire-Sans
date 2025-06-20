@@ -16,7 +16,7 @@
             color: #0366d6;
             font-weight: 600;
             font-family: Arial, sans-serif;">
-    Commercial License
+    For Commercial Use (License)
   </a>
 </p>
 

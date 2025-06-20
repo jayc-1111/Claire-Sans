@@ -19,4 +19,15 @@
 
 ![boardclarity](https://github.com/user-attachments/assets/ebbef314-f950-4f9e-a210-e91d3982cafe)
 
+<p align="center">
+  <a href="https://selem1.gumroad.com/l/bqegms" 
+     style="text-decoration-line: underline; 
+            text-decoration-style: double; 
+            text-decoration-color: #0366d6; 
+            color: #0366d6;
+            font-weight: 600;
+            font-family: Arial, sans-serif;">
+    Commercial License
+  </a>
+</p>
 

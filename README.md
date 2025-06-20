@@ -8,9 +8,7 @@
             font-family: Arial, sans-serif;">
     Free Download
   </a>
-</p>
-
-<p align="center">
+</p><p align="center">
   <a href="https://selem1.gumroad.com/l/bqegms" 
      style="text-decoration-line: underline; 
             text-decoration-style: double; 

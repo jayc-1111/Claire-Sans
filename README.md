@@ -13,9 +13,9 @@
 
 ![claritysans_readme1](https://github.com/user-attachments/assets/71f95f12-169f-4d4e-9a21-7de80761091c)
 
-![betterreading](https://github.com/user-attachments/assets/47cddf29-0e71-48bb-90cd-d5a43ef460f1)
-![Screenshot 2025-06-18 105958](https://github.com/user-attachments/assets/ba4d91a8-489b-4cc0-a262-5eefbb1eb936)
 
+![Screenshot 2025-06-18 105958](https://github.com/user-attachments/assets/ba4d91a8-489b-4cc0-a262-5eefbb1eb936)
+![betterreading](https://github.com/user-attachments/assets/47cddf29-0e71-48bb-90cd-d5a43ef460f1)
 ![boardclarity](https://github.com/user-attachments/assets/ebbef314-f950-4f9e-a210-e91d3982cafe)
 
 

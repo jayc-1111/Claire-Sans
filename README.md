@@ -13,9 +13,6 @@
 
 ![claritysans_readme1](https://github.com/user-attachments/assets/71f95f12-169f-4d4e-9a21-7de80761091c)
 
-
-
-![clarity](https://github.com/user-attachments/assets/9f751f8e-2ccd-4ceb-96af-1cf5ed71b704)
 ![betterreading](https://github.com/user-attachments/assets/47cddf29-0e71-48bb-90cd-d5a43ef460f1)
 ![Screenshot 2025-06-18 105958](https://github.com/user-attachments/assets/ba4d91a8-489b-4cc0-a262-5eefbb1eb936)
 

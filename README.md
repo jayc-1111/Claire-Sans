@@ -10,7 +10,7 @@
   </a>
 </p>
 
-![clairesans](https://github.com/user-attachments/assets/777b28f9-ea5e-4280-b2ac-03ed8da318f1)
+![Screenshot 2025-06-21 210256](https://github.com/user-attachments/assets/afaed18e-c63a-4918-bef5-a32e0d75f0ca)
 
 
 ![Screenshot 2025-06-18 105958](https://github.com/user-attachments/assets/ba4d91a8-489b-4cc0-a262-5eefbb1eb936)

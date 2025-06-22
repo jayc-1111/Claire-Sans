@@ -5,7 +5,6 @@
 
 ![Screenshot 2025-06-18 105958](https://github.com/user-attachments/assets/ba4d91a8-489b-4cc0-a262-5eefbb1eb936)
 
-![Screenshot 2025-06-21 233240](https://github.com/user-attachments/assets/f4db3ee7-ccdd-4c6f-94f3-ca6912f28d46)
 
 
 ![boardclarity](https://github.com/user-attachments/assets/ebbef314-f950-4f9e-a210-e91d3982cafe)

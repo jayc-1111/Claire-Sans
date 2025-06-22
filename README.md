@@ -10,6 +10,7 @@
   </a>
 </p>
 
+![clairesans](https://github.com/user-attachments/assets/777b28f9-ea5e-4280-b2ac-03ed8da318f1)
 
 ![claritysans_readme1](https://github.com/user-attachments/assets/71f95f12-169f-4d4e-9a21-7de80761091c)
 

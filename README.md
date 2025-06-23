@@ -1,4 +1,14 @@
-
+</p><p align="center">
+  <a href="https://mega.nz/folder/a8dylBaB#aLfJ16z5jaeQs9sEhPkLHQ" 
+     style="text-decoration-line: underline; 
+            text-decoration-style: double; 
+            text-decoration-color: #0366d6; 
+            color: #0366d6;
+            font-weight: 600;
+            font-family: Arial, sans-serif;">
+    Download Font
+  </a>
+</p>
 
 ![Screenshot 2025-06-21 2103423256](https://github.com/user-attachments/assets/fd9a3eb8-514b-4885-9482-50fe5fe90f9c)
 
@@ -18,6 +28,6 @@
             color: #0366d6;
             font-weight: 600;
             font-family: Arial, sans-serif;">
-    Download
+    Download Font
   </a>
 </p>

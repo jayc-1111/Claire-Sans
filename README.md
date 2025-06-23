@@ -6,7 +6,7 @@
             color: #0366d6;
             font-weight: 600;
             font-family: Arial, sans-serif;">
-    [Download]
+    [Download Font Family]
   </a>
 </p>
 

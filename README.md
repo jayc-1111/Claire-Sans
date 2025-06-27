@@ -17,3 +17,7 @@
     download
   </a>
 </p>
+
+<!-- Elfsight Before and After Slider | Untitled Before and After Slider -->
+<script src="https://static.elfsight.com/platform/platform.js" async></script>
+<div class="elfsight-app-b7811f0e-f3a0-4f4e-b497-8a094132df00" data-elfsight-app-lazy></div>

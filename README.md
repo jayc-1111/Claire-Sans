@@ -5,19 +5,3 @@
 ![Screenshot 2025-06-18 105958](https://github.com/user-attachments/assets/ba4d91a8-489b-4cc0-a262-5eefbb1eb936)
 
 ![upload33333333](https://github.com/user-attachments/assets/2c8d1671-5757-4c9b-96b8-ede00bb6b20f)
-
-</p><p align="center">
-  <a href="https://mega.nz/folder/a8dylBaB#aLfJ16z5jaeQs9sEhPkLHQ" 
-     style="text-decoration-line: underline; 
-            text-decoration-style: double; 
-            text-decoration-color: #0366d6; 
-            color: #0366d6;
-            font-weight: 600;
-            font-family: Arial, sans-serif;">
-    download
-  </a>
-</p>
-
-<!-- Elfsight Before and After Slider | Untitled Before and After Slider -->
-<script src="https://static.elfsight.com/platform/platform.js" async></script>
-<div class="elfsight-app-b7811f0e-f3a0-4f4e-b497-8a094132df00" data-elfsight-app-lazy></div>
